@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="nextFile" type="PLAIN_TEXT" />
+      <mapping pattern="file_1" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
