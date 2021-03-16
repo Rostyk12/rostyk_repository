@@ -38,6 +38,10 @@
           <option name="url" value="https://Rostyk_Olekha@bitbucket.org/Rostyk_Olekha/sql_hometask.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Rostyk_Olekha@bitbucket.org/Rostyk_Olekha/java_advanced_hometask.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents" />
